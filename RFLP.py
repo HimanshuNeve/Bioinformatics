@@ -27,7 +27,7 @@ else:
 
 
 
-'''above code is with error and below code is debugged using gpt.
+'''above code is with error and below code is debugged.
  The bug was showing error in reading the larger fasta sequence while imputng the sequence from the user,
 thus we used open() to read the fasta file.'''
 
